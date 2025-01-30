@@ -2,7 +2,7 @@ package homeworks.homework01;
 
 import java.util.Arrays;
 
-public class UseHomework01 {
+public class UseArray {
     public static void main(String[] args) {
         int[] numbers2 = new int[2000000];
         Array array = new Array(numbers2);

@@ -34,10 +34,4 @@ public class Array {
         return count;
     }
 
-//    public void printArray(){
-//        for (int number : numbers){
-//            System.out.println(number + " ");
-//        }
-//    }
-
 }
